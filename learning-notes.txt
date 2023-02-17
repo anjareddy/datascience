@@ -1,0 +1,11 @@
+git url: https://github.com/anjareddy/datascience.git
+
+Machine learning foundations
+
+Algebra
+https://youtu.be/NMTQ7rodUxY?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a
+
+Data structures for Algebra
+Common Tensor Operations
+Matrix properties
+
