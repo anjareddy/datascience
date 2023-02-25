@@ -9,3 +9,14 @@ Data structures for Algebra
 Common Tensor Operations
 Matrix properties
 
+Tensors are machine learning generalization of scalars, vectors, matrices, 3-tensor (cube),....
+
+
+scalar tensors:
+    no dimensions, only magnitude
+    single number
+    typed, like all other tensors
+
+Automatic differentiation libraries -> pytorch, tensorflows
+
+
